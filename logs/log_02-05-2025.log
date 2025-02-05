@@ -1,0 +1,1249 @@
+03:50:07 | 500 |    4.370967ms | 172.18.0.1 | POST | /api/v1/auth/daftar | Cannot POST /api/v1/auth/daftar
+{"@timestamp":"2025-02-05T03:50:17Z","level":"info","message":"account_create_databcb{4592445d-b38e-4e22-8a7e-09ede58376b7 1738727417412554559 han 5223012344559212 122345223212 0 2025-02-05 03:50:17.41255886 +0000 UTC m=+40.559352173 0001-01-01 00:00:00 +0000 UTC}"}
+03:50:17 | 200 |   62.185362ms | 172.18.0.1 | POST | /api/v1/daftar | -
+03:50:20 | 400 |     916.952µs | 172.18.0.1 | POST | /api/v1/daftar | -
+03:52:12 | 500 |      74.606µs | 172.18.0.1 | POST | /api/v1/tabung | Cannot POST /api/v1/tabung
+03:52:55 | 500 |      91.405µs | 172.18.0.1 | POST | /api/v1/tabung | Cannot POST /api/v1/tabung
+03:53:37 | 500 |     145.308µs | 172.18.0.1 | POST | /api/v1/tabung | Cannot POST /api/v1/tabung
+03:53:38 | 500 |      13.501µs | 172.18.0.1 | POST | /api/v1/tabung | Cannot POST /api/v1/tabung
+03:53:43 | 400 |    4.202722ms | 172.18.0.1 | POST | /api/v1/daftar | -
+03:58:26 | 400 |    2.482233ms | 172.18.0.1 | POST | /api/v1/tabung | -
+04:00:25 | 200 |    18.17377ms | 172.18.0.1 | POST | /api/v1/tabung | -
+04:02:01 | 200 |   23.458762ms | 172.18.0.1 | POST | /api/v1/tabung | -
+04:03:20 | 200 |   23.604456ms | 172.18.0.1 | POST | /api/v1/tabung | -
+04:04:34 | 200 |   21.435008ms | 172.18.0.1 | POST | /api/v1/tabung | -
+04:04:35 | 200 |    1.264666ms | 172.18.0.1 | POST | /api/v1/tabung | -
+04:04:37 | 200 |    1.541479ms | 172.18.0.1 | POST | /api/v1/tabung | -
+04:04:52 | 200 |    1.407874ms | 172.18.0.1 | POST | /api/v1/tabung | -
+04:07:44 | 200 |    14.13439ms | 172.18.0.1 | POST | /api/v1/tabung | -
+04:07:51 | 400 |    1.027164ms | 172.18.0.1 | POST | /api/v1/daftar | -
+{"@timestamp":"2025-02-05T04:08:00Z","level":"info","message":"account_create_databcb{1ac6b2de-bf7b-4934-9bdc-647507f4f1b7 1738728480112262590 han 5223012344559213 122345223213 0 2025-02-05 04:08:00.112263991 +0000 UTC m=+15.859677125 0001-01-01 00:00:00 +0000 UTC}"}
+04:07:59 | 200 |   21.864172ms | 172.18.0.1 | POST | /api/v1/daftar | -
+04:08:06 | 200 |    1.289969ms | 172.18.0.1 | POST | /api/v1/tabung | -
+04:18:26 | 200 |   15.772891ms | 172.18.0.1 | POST | /api/v1/tabung | -
+04:18:53 | 200 |   11.651126ms | 172.18.0.1 | POST | /api/v1/tabung | -
+{"@timestamp":"2025-02-05T04:31:26Z","level":"info","message":"account_create_databcb{34253b39-3257-445e-a5dd-12a5b4011a39 1738729886292366235 han 5223012344559213 122345223213 0 2025-02-05 04:31:26.292367936 +0000 UTC m=+51.893733584 0001-01-01 00:00:00 +0000 UTC}"}
+04:31:26 | 200 |   24.695639ms | 172.18.0.1 | POST | /api/v1/daftar | -
+04:31:34 | 200 |   27.718077ms | 172.18.0.1 | POST | /api/v1/tabung | -
+04:32:58 | 200 |   31.281356ms | 172.18.0.1 | POST | /api/v1/tabung | -
+04:41:23 | 400 |   14.466305ms | 172.18.0.1 | POST | /api/v1/tabung | -
+04:58:07 | 400 |    6.448771ms | 172.18.0.1 | POST | /api/v1/tabung | -
+04:58:09 | 400 |     985.776µs | 172.18.0.1 | POST | /api/v1/tabung | -
+04:58:10 | 400 |     554.043µs | 172.18.0.1 | POST | /api/v1/tabung | -
+04:58:18 | 200 |   27.577337ms | 172.18.0.1 | POST | /api/v1/tabung | -
+{"@timestamp":"2025-02-05T05:20:18Z","accountName":"han","identityCard":"5223012344559215","level":"info","message":"Starting account creation","phone":"122345223215","timestamp":"2025-02-05T05:20:18Z"}
+{"@timestamp":"2025-02-05T05:20:18Z","accountID":"2c103a94-2166-4a88-aef9-02c9964f639b","accountNumber":"1738732818781865653","level":"info","message":"Account created in memory"}
+{"@timestamp":"2025-02-05T05:20:18Z","accountID":"2c103a94-2166-4a88-aef9-02c9964f639b","accountNumber":"1738732818781865653","createdAt":"2025-02-05T05:20:18.781870654Z","level":"info","message":"Account saved to database"}
+05:20:18 | 200 |   16.412319ms | 172.18.0.1 | POST | /api/v1/daftar | -
+05:20:30 | 400 |    1.290577ms | 172.18.0.1 | POST | /api/v1/daftar | -
+05:28:14 | 400 |    6.455275ms | 172.18.0.1 | POST | /api/v1/daftar | -
+{"@timestamp":"2025-02-05T05:28:26Z","accountName":"han","identityCard":"5223012344559212","level":"info","message":"Starting account creation","phone":"122345223212","timestamp":"2025-02-05T05:28:26Z"}
+{"@timestamp":"2025-02-05T05:28:26Z","accountID":"09ae03c6-c207-4f45-8d8b-19e1ca056de2","accountNumber":"1738733306464780726","level":"info","message":"Account created in memory"}
+{"@timestamp":"2025-02-05T05:28:26Z","accountID":"09ae03c6-c207-4f45-8d8b-19e1ca056de2","accountNumber":"1738733306464780726","createdAt":"2025-02-05T05:28:26.464784327Z","level":"info","message":"Account saved to database"}
+05:28:26 | 200 |   22.235846ms | 172.18.0.1 | POST | /api/v1/daftar | -
+05:30:09 | 500 |      83.506µs | 172.18.0.1 | POST | /api/v1/daftar | Cannot POST /api/v1/daftar
+05:30:35 | 500 |      294.82µs | 172.18.0.1 | POST | /api/v1/daftar | Cannot POST /api/v1/daftar
+{
+  "@timestamp": "2025-02-05T05:32:31Z",
+  "level": "info",
+  "message": "Received account creation requestmap[IdentityCard:5223012344559212 Phone:122345223212]"
+}
+{
+  "@timestamp": "2025-02-05T05:32:31Z",
+  "level": "warning",
+  "message": "Identity card already in usemap[IdentityCard:5223012344559212]"
+}
+05:32:31 | 400 |    6.481933ms | 172.18.0.1 | POST | /api/v1/daftar | -
+{
+  "@timestamp": "2025-02-05T05:32:50Z",
+  "level": "info",
+  "message": "Received account creation requestmap[IdentityCard:5223012344559222 Phone:122345223222]"
+}
+{
+  "@timestamp": "2025-02-05T05:32:50Z",
+  "level": "info",
+  "message": "Validating account creation requestmap[AccountName:han IdentityCard:5223012344559222 Phone:122345223222]"
+}
+{
+  "@timestamp": "2025-02-05T05:32:50Z",
+  "level": "info",
+  "message": "Saving account to databasemap[AccountID:a97e923a-672d-4026-a61d-e3adaddc0a47 AccountNumber:1738733570714115798]"
+}
+{
+  "@timestamp": "2025-02-05T05:32:50Z",
+  "level": "info",
+  "message": "Account successfully createdmap[AccountNumber:1738733570714115798]"
+}
+{
+  "@timestamp": "2025-02-05T05:32:50Z",
+  "level": "info",
+  "message": "Account successfully createdmap[AccountNumber:1738733570714115798]"
+}
+05:32:50 | 200 |   26.900056ms | 172.18.0.1 | POST | /api/v1/daftar | -
+{
+  "@timestamp": "2025-02-05T05:33:25Z",
+  "level": "info",
+  "message": "Received account creation requestmap[IdentityCard:5223012344559222 Phone:122345223222]"
+}
+{
+  "@timestamp": "2025-02-05T05:33:25Z",
+  "level": "warning",
+  "message": "Identity card already in usemap[IdentityCard:5223012344559222]"
+}
+05:33:25 | 400 |   10.211078ms | 172.18.0.1 | POST | /api/v1/daftar | -
+{
+  "@timestamp": "2025-02-05T05:56:51Z",
+  "level": "info",
+  "message": "Received deposit requestmap[AccountNumber:1738733570714115798 Amount:12500]"
+}
+{
+  "@timestamp": "2025-02-05T05:56:51Z",
+  "level": "info",
+  "message": "Validating deposit transactionmap[AccountNumber:1738733570714115798 Amount:12500]"
+}
+{
+  "@timestamp": "2025-02-05T05:56:51Z",
+  "level": "info",
+  "message": "Creating deposit transactionmap[AccountNumber:1738733570714115798 FinalBalance:12500 TransactionID:c7b499a5-dd71-42f8-9086-a119160717cc]"
+}
+{
+  "@timestamp": "2025-02-05T05:56:51Z",
+  "level": "info",
+  "message": "Deposit transaction completedmap[AccountNumber:1738733570714115798 FinalBalance:12500]"
+}
+{
+  "@timestamp": "2025-02-05T05:56:51Z",
+  "level": "info",
+  "message": "Deposit transaction successfulmap[AccountNumber:1738733570714115798 FinalBalance:12500]"
+}
+05:56:51 | 200 |   23.159773ms | 172.18.0.1 | POST | /api/v1/tabung | -
+{
+  "@timestamp": "2025-02-05T05:57:35Z",
+  "level": "info",
+  "message": "Received deposit requestmap[AccountNumber:1738733570714115792 Amount:12500]"
+}
+{
+  "@timestamp": "2025-02-05T05:57:35Z",
+  "level": "warning",
+  "message": "Account number does not existmap[AccountNumber:1738733570714115792]"
+}
+05:57:35 | 400 |   17.021406ms | 172.18.0.1 | POST | /api/v1/tabung | -
+{
+  "@timestamp": "2025-02-05T06:33:54Z",
+  "level": "info",
+  "message": "Received withdraw requestmap[AccountNumber:1738728480112262590 Amount:1000]"
+}
+{
+  "@timestamp": "2025-02-05T06:33:54Z",
+  "level": "warning",
+  "message": "Account number does not existmap[AccountNumber:1738728480112262590]"
+}
+06:33:54 | 400 |   12.772549ms | 172.18.0.1 | POST | /api/v1/tarik | -
+{
+  "@timestamp": "2025-02-05T06:34:11Z",
+  "level": "info",
+  "message": "Received withdraw requestmap[AccountNumber:1738733570714115798 Amount:1000]"
+}
+{
+  "@timestamp": "2025-02-05T06:34:11Z",
+  "level": "info",
+  "message": "Validating Withdraw transactionmap[AccountNumber:1738733570714115798 Amount:1000]"
+}
+{
+  "@timestamp": "2025-02-05T06:34:11Z",
+  "level": "info",
+  "message": "Creating Withdraw transactionmap[AccountNumber:1738733570714115798 FinalBalance:11500 TransactionID:59cdb674-b18e-405f-836f-7b736bf372c9]"
+}
+{
+  "@timestamp": "2025-02-05T06:36:22Z",
+  "level": "info",
+  "message": "Received account creation requestmap[IdentityCard:5223012344559213 Phone:122345223213]"
+}
+{
+  "@timestamp": "2025-02-05T06:36:22Z",
+  "level": "info",
+  "message": "Validating account creation requestmap[AccountName:han IdentityCard:5223012344559213 Phone:122345223213]"
+}
+{
+  "@timestamp": "2025-02-05T06:36:22Z",
+  "level": "info",
+  "message": "Saving account to databasemap[AccountID:bf49c871-1200-4c79-b3a8-d1992f41697d AccountNumber:1738737382185951941]"
+}
+{
+  "@timestamp": "2025-02-05T06:36:22Z",
+  "level": "info",
+  "message": "Account successfully createdmap[AccountNumber:1738737382185951941]"
+}
+{
+  "@timestamp": "2025-02-05T06:36:22Z",
+  "level": "info",
+  "message": "Account successfully createdmap[AccountNumber:1738737382185951941]"
+}
+06:36:21 | 200 |   21.588198ms | 172.18.0.1 | POST | /api/v1/daftar | -
+{
+  "@timestamp": "2025-02-05T06:36:29Z",
+  "level": "info",
+  "message": "Received deposit requestmap[AccountNumber:1738737382185951941 Amount:10000]"
+}
+{
+  "@timestamp": "2025-02-05T06:36:29Z",
+  "level": "info",
+  "message": "Validating deposit transactionmap[AccountNumber:1738737382185951941 Amount:10000]"
+}
+{
+  "@timestamp": "2025-02-05T06:36:29Z",
+  "level": "info",
+  "message": "Creating deposit transactionmap[AccountNumber:1738737382185951941 FinalBalance:10000 TransactionID:e87e2e6f-96ea-43ba-850e-9681ec673c54]"
+}
+{
+  "@timestamp": "2025-02-05T06:36:29Z",
+  "level": "info",
+  "message": "Deposit transaction completedmap[AccountNumber:1738737382185951941 FinalBalance:10000]"
+}
+{
+  "@timestamp": "2025-02-05T06:36:29Z",
+  "level": "info",
+  "message": "Deposit transaction successfulmap[AccountNumber:1738737382185951941 FinalBalance:10000]"
+}
+06:36:28 | 200 |    20.81324ms | 172.18.0.1 | POST | /api/v1/tabung | -
+{
+  "@timestamp": "2025-02-05T06:36:36Z",
+  "level": "info",
+  "message": "Received deposit requestmap[AccountNumber:1738737382185951941 Amount:50000]"
+}
+{
+  "@timestamp": "2025-02-05T06:36:36Z",
+  "level": "info",
+  "message": "Validating deposit transactionmap[AccountNumber:1738737382185951941 Amount:50000]"
+}
+{
+  "@timestamp": "2025-02-05T06:36:36Z",
+  "level": "info",
+  "message": "Creating deposit transactionmap[AccountNumber:1738737382185951941 FinalBalance:60000 TransactionID:597fdebe-3161-4f20-b4ca-b73c8d40b7d0]"
+}
+{
+  "@timestamp": "2025-02-05T06:36:36Z",
+  "level": "info",
+  "message": "Deposit transaction completedmap[AccountNumber:1738737382185951941 FinalBalance:60000]"
+}
+{
+  "@timestamp": "2025-02-05T06:36:36Z",
+  "level": "info",
+  "message": "Deposit transaction successfulmap[AccountNumber:1738737382185951941 FinalBalance:60000]"
+}
+06:36:35 | 200 |   17.606454ms | 172.18.0.1 | POST | /api/v1/tabung | -
+{
+  "@timestamp": "2025-02-05T06:37:12Z",
+  "level": "info",
+  "message": "Received withdraw requestmap[AccountNumber:1738737382185951941 Amount:20000]"
+}
+{
+  "@timestamp": "2025-02-05T06:37:12Z",
+  "level": "info",
+  "message": "Validating Withdraw transactionmap[AccountNumber:1738737382185951941 Amount:20000]"
+}
+{
+  "@timestamp": "2025-02-05T06:37:12Z",
+  "level": "info",
+  "message": "Creating Withdraw transactionmap[AccountNumber:1738737382185951941 FinalBalance:40000 TransactionID:87d1d04a-2db3-42f8-a680-1829a1ad7697]"
+}
+{
+  "@timestamp": "2025-02-05T06:38:15Z",
+  "level": "info",
+  "message": "Received withdraw requestmap[AccountNumber:1738737382185951941 Amount:20000]"
+}
+{
+  "@timestamp": "2025-02-05T06:38:15Z",
+  "level": "info",
+  "message": "Validating Withdraw transactionmap[AccountNumber:1738737382185951941 Amount:20000]"
+}
+{
+  "@timestamp": "2025-02-05T06:38:15Z",
+  "level": "info",
+  "message": "Creating Withdraw transactionmap[AccountNumber:1738737382185951941 FinalBalance:40000 TransactionID:78d9cca2-6364-4a0d-81b0-994025d6a243]"
+}
+{
+  "@timestamp": "2025-02-05T06:38:15Z",
+  "level": "info",
+  "message": "Withdraw transaction completedmap[AccountNumber:1738737382185951941 FinalBalance:40000]"
+}
+{
+  "@timestamp": "2025-02-05T06:38:15Z",
+  "level": "info",
+  "message": "Withdraw transaction successfulmap[AccountNumber:1738737382185951941 FinalBalance:40000]"
+}
+06:38:15 | 200 |   24.559644ms | 172.18.0.1 | POST | /api/v1/tarik | -
+{
+  "@timestamp": "2025-02-05T06:38:36Z",
+  "level": "info",
+  "message": "Received withdraw requestmap[AccountNumber:1738737382185951941 Amount:50000]"
+}
+{
+  "@timestamp": "2025-02-05T06:38:36Z",
+  "level": "warning",
+  "message": "Insufficient balance for withdrawmap[AccountNumber:1738737382185951941 Available:40000 Requested:50000]"
+}
+06:38:35 | 400 |    1.766805ms | 172.18.0.1 | POST | /api/v1/tarik | -
+{
+  "@timestamp": "2025-02-05T07:31:52Z",
+  "level": "info",
+  "message": "Received withdraw requestmap[AccountNumber:1738737382185951921 Amount:10000]"
+}
+{
+  "@timestamp": "2025-02-05T07:31:52Z",
+  "level": "warning",
+  "message": "Account number does not existmap[AccountNumber:1738737382185951921]"
+}
+07:31:52 | 400 |  104.216018ms | 172.18.0.1 | POST | /api/v1/tarik | -
+08:03:30 | 500 |     2.41905ms | 172.18.0.1 | GET | /api/v1/saldo | Cannot GET /api/v1/saldo
+08:03:49 | 500 |      71.305µs | 172.18.0.1 | GET | /api/v1/saldo | Cannot GET /api/v1/saldo
+08:04:13 | 500 |      39.604µs | 172.18.0.1 | GET | /api/v1/saldo/:account_number='1738737382185951941' | Cannot GET /api/v1/saldo/:account_number=&#39;1738737382185951941&#39;
+08:04:20 | 500 |      22.301µs | 172.18.0.1 | GET | /api/v1/saldo/account_number='1738737382185951941' | Cannot GET /api/v1/saldo/account_number=&#39;1738737382185951941&#39;
+08:04:27 | 500 |        17.3µs | 172.18.0.1 | GET | /api/v1/saldo:account_number='1738737382185951941' | Cannot GET /api/v1/saldo:account_number=&#39;1738737382185951941&#39;
+08:05:18 | 500 |     121.208µs | 172.18.0.1 | GET | /api/v1/jabatan/1738737382185951941 | Cannot GET /api/v1/jabatan/1738737382185951941
+08:05:23 | 500 |      15.301µs | 172.18.0.1 | GET | /api/v1/jabatan/'1738737382185951941' | Cannot GET /api/v1/jabatan/&#39;1738737382185951941&#39;
+08:06:02 | 500 |     458.733µs | 172.18.0.1 | GET | /api/v1/jabatan/'1738737382185951941' | Cannot GET /api/v1/jabatan/&#39;1738737382185951941&#39;
+08:06:08 | 500 |        21.8µs | 172.18.0.1 | GET | /api/v1/jabatan/1738737382185951941 | Cannot GET /api/v1/jabatan/1738737382185951941
+08:06:32 | 500 |      51.804µs | 172.18.0.1 | GET | /api/v1/saldo/1738737382185951941 | Cannot GET /api/v1/saldo/1738737382185951941
+08:06:42 | 500 |      22.402µs | 172.18.0.1 | GET | /api/v1/saldo/1738737382185951941 | Cannot GET /api/v1/saldo/1738737382185951941
+08:07:15 | 500 |      31.602µs | 172.18.0.1 | GET | /api/v1/saldo/1738737382185951941 | Cannot GET /api/v1/saldo/1738737382185951941
+{
+  "@timestamp": "2025-02-05T08:07:53Z",
+  "level": "info",
+  "message": "Received withdraw requestmap[AccountNumber:1738737382185951941 Amount:10000]"
+}
+{
+  "@timestamp": "2025-02-05T08:07:53Z",
+  "level": "info",
+  "message": "Validating Withdraw transactionmap[AccountNumber:1738737382185951941 Amount:10000]"
+}
+{
+  "@timestamp": "2025-02-05T08:07:53Z",
+  "level": "info",
+  "message": "Creating Withdraw transactionmap[AccountNumber:1738737382185951941 FinalBalance:30000 TransactionID:24eceae5-0110-4fea-91ce-c0d044819488]"
+}
+{
+  "@timestamp": "2025-02-05T08:07:53Z",
+  "level": "info",
+  "message": "Withdraw transaction completedmap[AccountNumber:1738737382185951941 FinalBalance:30000]"
+}
+{
+  "@timestamp": "2025-02-05T08:07:53Z",
+  "level": "info",
+  "message": "Withdraw transaction successfulmap[AccountNumber:1738737382185951941 FinalBalance:30000]"
+}
+08:07:53 | 200 |   25.884314ms | 172.18.0.1 | POST | /api/v1/tarik | -
+08:08:14 | 500 |     118.108µs | 172.18.0.1 | GET | /api/v1/saldo/1738737382185951941 | Cannot GET /api/v1/saldo/1738737382185951941
+08:08:29 | 500 |      33.802µs | 172.18.0.1 | GET | /api/v1/saldo/ | Cannot GET /api/v1/saldo/
+08:10:23 | 500 |      79.405µs | 172.18.0.1 | GET | /api/v1/saldo/ | Cannot GET /api/v1/saldo/
+{
+  "@timestamp": "2025-02-05T08:10:31Z",
+  "level": "info",
+  "message": "Checking account balance requestmap[AccountNumber::account_number=1738737382185951941]"
+}
+{
+  "@timestamp": "2025-02-05T08:10:31Z",
+  "level": "warning",
+  "message": "Account number does not existmap[AccountNumber::account_number=1738737382185951941]"
+}
+08:10:31 | 400 |    3.113403ms | 172.18.0.1 | GET | /api/v1/saldo/:account_number=1738737382185951941 | -
+{
+  "@timestamp": "2025-02-05T08:10:52Z",
+  "level": "info",
+  "message": "Checking account balance requestmap[AccountNumber:1738737382185951941]"
+}
+{
+  "@timestamp": "2025-02-05T08:10:52Z",
+  "level": "info",
+  "message": "Fetching balance for accountmap[AccountNumber:1738737382185951941]"
+}
+{
+  "@timestamp": "2025-02-05T08:10:52Z",
+  "level": "info",
+  "message": "Successfully fetched balancemap[AccountNumber:1738737382185951941 Balance:30000]"
+}
+{
+  "@timestamp": "2025-02-05T08:10:52Z",
+  "level": "info",
+  "message": "Successfully retrieved balancemap[AccountNumber:1738737382185951941 Balance:30000]"
+}
+08:10:52 | 200 |   23.796313ms | 172.18.0.1 | GET | /api/v1/saldo/1738737382185951941 | -
+{
+  "@timestamp": "2025-02-05T08:11:26Z",
+  "level": "info",
+  "message": "Received account creation requestmap[IdentityCard:5223012344559313 Phone:122345225213]"
+}
+{
+  "@timestamp": "2025-02-05T08:11:26Z",
+  "level": "info",
+  "message": "Validating account creation requestmap[AccountName:farhan IdentityCard:5223012344559313 Phone:122345225213]"
+}
+{
+  "@timestamp": "2025-02-05T08:11:26Z",
+  "level": "info",
+  "message": "Saving account to databasemap[AccountID:4a0fde39-7d91-4042-81e7-92eb7d3a0d12 AccountNumber:1738743086099434186]"
+}
+{
+  "@timestamp": "2025-02-05T08:11:26Z",
+  "level": "info",
+  "message": "Account successfully createdmap[AccountNumber:1738743086099434186]"
+}
+{
+  "@timestamp": "2025-02-05T08:11:26Z",
+  "level": "info",
+  "message": "Account successfully createdmap[AccountNumber:1738743086099434186]"
+}
+08:11:25 | 200 |   35.933832ms | 172.18.0.1 | POST | /api/v1/daftar | -
+{
+  "@timestamp": "2025-02-05T08:11:32Z",
+  "level": "info",
+  "message": "Checking account balance requestmap[AccountNumber:1738743086099434186]"
+}
+{
+  "@timestamp": "2025-02-05T08:11:32Z",
+  "level": "info",
+  "message": "Fetching balance for accountmap[AccountNumber:1738743086099434186]"
+}
+{
+  "@timestamp": "2025-02-05T08:11:32Z",
+  "level": "info",
+  "message": "Successfully fetched balancemap[AccountNumber:1738743086099434186 Balance:0]"
+}
+{
+  "@timestamp": "2025-02-05T08:11:32Z",
+  "level": "info",
+  "message": "Successfully retrieved balancemap[AccountNumber:1738743086099434186 Balance:0]"
+}
+08:11:32 | 200 |    3.954748ms | 172.18.0.1 | GET | /api/v1/saldo/1738743086099434186 | -
+{
+  "@timestamp": "2025-02-05T08:11:46Z",
+  "level": "info",
+  "message": "Received deposit requestmap[AccountNumber:1738743086099434186 Amount:2e+07]"
+}
+{
+  "@timestamp": "2025-02-05T08:11:46Z",
+  "level": "info",
+  "message": "Validating deposit transactionmap[AccountNumber:1738743086099434186 Amount:2e+07]"
+}
+{
+  "@timestamp": "2025-02-05T08:11:46Z",
+  "level": "info",
+  "message": "Creating deposit transactionmap[AccountNumber:1738743086099434186 FinalBalance:2e+07 TransactionID:2509f89a-346d-4098-9907-f8d6b49e2aad]"
+}
+{
+  "@timestamp": "2025-02-05T08:11:46Z",
+  "level": "info",
+  "message": "Deposit transaction completedmap[AccountNumber:1738743086099434186 FinalBalance:2e+07]"
+}
+{
+  "@timestamp": "2025-02-05T08:11:46Z",
+  "level": "info",
+  "message": "Deposit transaction successfulmap[AccountNumber:1738743086099434186 FinalBalance:2e+07]"
+}
+08:11:45 | 200 |   19.495423ms | 172.18.0.1 | POST | /api/v1/tabung | -
+{
+  "@timestamp": "2025-02-05T08:11:49Z",
+  "level": "info",
+  "message": "Checking account balance requestmap[AccountNumber:1738743086099434186]"
+}
+{
+  "@timestamp": "2025-02-05T08:11:49Z",
+  "level": "info",
+  "message": "Fetching balance for accountmap[AccountNumber:1738743086099434186]"
+}
+{
+  "@timestamp": "2025-02-05T08:11:49Z",
+  "level": "info",
+  "message": "Successfully fetched balancemap[AccountNumber:1738743086099434186 Balance:2e+07]"
+}
+{
+  "@timestamp": "2025-02-05T08:11:49Z",
+  "level": "info",
+  "message": "Successfully retrieved balancemap[AccountNumber:1738743086099434186 Balance:2e+07]"
+}
+08:11:48 | 200 |    2.553596ms | 172.18.0.1 | GET | /api/v1/saldo/1738743086099434186 | -
+{
+  "@timestamp": "2025-02-05T08:12:07Z",
+  "level": "info",
+  "message": "Received withdraw requestmap[AccountNumber:1738743086099434186 Amount:5e+06]"
+}
+{
+  "@timestamp": "2025-02-05T08:12:07Z",
+  "level": "info",
+  "message": "Validating Withdraw transactionmap[AccountNumber:1738743086099434186 Amount:5e+06]"
+}
+{
+  "@timestamp": "2025-02-05T08:12:07Z",
+  "level": "info",
+  "message": "Creating Withdraw transactionmap[AccountNumber:1738743086099434186 FinalBalance:1.5e+07 TransactionID:dea1b41e-99b9-405d-bae3-3a88c8ccbc7b]"
+}
+{
+  "@timestamp": "2025-02-05T08:12:07Z",
+  "level": "info",
+  "message": "Withdraw transaction completedmap[AccountNumber:1738743086099434186 FinalBalance:1.5e+07]"
+}
+{
+  "@timestamp": "2025-02-05T08:12:07Z",
+  "level": "info",
+  "message": "Withdraw transaction successfulmap[AccountNumber:1738743086099434186 FinalBalance:1.5e+07]"
+}
+08:12:07 | 200 |   24.583682ms | 172.18.0.1 | POST | /api/v1/tarik | -
+{
+  "@timestamp": "2025-02-05T08:12:15Z",
+  "level": "info",
+  "message": "Checking account balance requestmap[AccountNumber:1738743086099434186]"
+}
+{
+  "@timestamp": "2025-02-05T08:12:15Z",
+  "level": "info",
+  "message": "Fetching balance for accountmap[AccountNumber:1738743086099434186]"
+}
+{
+  "@timestamp": "2025-02-05T08:12:15Z",
+  "level": "info",
+  "message": "Successfully fetched balancemap[AccountNumber:1738743086099434186 Balance:1.5e+07]"
+}
+{
+  "@timestamp": "2025-02-05T08:12:15Z",
+  "level": "info",
+  "message": "Successfully retrieved balancemap[AccountNumber:1738743086099434186 Balance:1.5e+07]"
+}
+08:12:14 | 200 |    3.505256ms | 172.18.0.1 | GET | /api/v1/saldo/1738743086099434186 | -
+{
+  "@timestamp": "2025-02-05T09:51:03Z",
+  "level": "info",
+  "message": "Checking account balance requestmap[AccountNumber:1738743086099434186]"
+}
+{
+  "@timestamp": "2025-02-05T09:51:03Z",
+  "level": "info",
+  "message": "Fetching balance for accountmap[AccountNumber:1738743086099434186]"
+}
+{
+  "@timestamp": "2025-02-05T09:51:03Z",
+  "level": "info",
+  "message": "Successfully fetched balancemap[AccountNumber:1738743086099434186 Balance:1.5e+07]"
+}
+{
+  "@timestamp": "2025-02-05T09:51:03Z",
+  "level": "info",
+  "message": "Successfully retrieved balancemap[AccountNumber:1738743086099434186 Balance:1.5e+07]"
+}
+09:51:03 | 200 |   39.985283ms | 172.18.0.1 | GET | /api/v1/saldo/1738743086099434186 | -
+{
+  "@timestamp": "2025-02-05T09:51:35Z",
+  "level": "info",
+  "message": "Checking account balance requestmap[AccountNumber:1738743086099434185]"
+}
+{
+  "@timestamp": "2025-02-05T09:51:36Z",
+  "level": "warning",
+  "message": "Account number does not existmap[AccountNumber:1738743086099434185]"
+}
+09:51:35 | 400 |   27.093015ms | 172.18.0.1 | GET | /api/v1/saldo/1738743086099434185 | -
+{
+  "@timestamp": "2025-02-05T09:57:18Z",
+  "level": "info",
+  "message": "Checking account balance requestmap[AccountNumber:1738743086099434185]"
+}
+{
+  "@timestamp": "2025-02-05T09:57:18Z",
+  "level": "warning",
+  "message": "Account number does not existmap[AccountNumber:1738743086099434185]"
+}
+09:57:17 | 400 |   21.383042ms | 172.18.0.1 | GET | /api/v1/saldo/1738743086099434185 | -
+{
+  "@timestamp": "2025-02-05T10:00:08Z",
+  "level": "info",
+  "message": "Checking account balance requestmap[AccountNumber:1738743086099434185]"
+}
+{
+  "@timestamp": "2025-02-05T10:00:08Z",
+  "level": "warning",
+  "message": "Account number does not existmap[AccountNumber:1738743086099434185]"
+}
+10:00:08 | 400 |    3.416382ms | 172.18.0.1 | GET | /api/v1/saldo/1738743086099434185 | -
+{
+  "@timestamp": "2025-02-05T10:00:18Z",
+  "level": "info",
+  "message": "Checking account balance requestmap[AccountNumber:1738743086099434186]"
+}
+{
+  "@timestamp": "2025-02-05T10:00:18Z",
+  "level": "info",
+  "message": "Fetching balance for accountmap[AccountNumber:1738743086099434186]"
+}
+{
+  "@timestamp": "2025-02-05T10:00:18Z",
+  "level": "info",
+  "message": "Successfully fetched balancemap[AccountNumber:1738743086099434186 Balance:1.5e+07]"
+}
+{
+  "@timestamp": "2025-02-05T10:00:18Z",
+  "level": "info",
+  "message": "Successfully retrieved balancemap[AccountNumber:1738743086099434186 Balance:1.5e+07]"
+}
+10:00:18 | 200 |    4.069635ms | 172.18.0.1 | GET | /api/v1/saldo/1738743086099434186 | -
+{
+  "@timestamp": "2025-02-05T10:01:15Z",
+  "level": "info",
+  "message": "Checking account balance requestmap[AccountNumber:1738743086099434186]"
+}
+{
+  "@timestamp": "2025-02-05T10:01:15Z",
+  "level": "info",
+  "message": "Fetching balance for accountmap[AccountNumber:1738743086099434186]"
+}
+{
+  "@timestamp": "2025-02-05T10:01:15Z",
+  "level": "info",
+  "message": "Successfully fetched balancemap[AccountNumber:1738743086099434186 Balance:1.5e+07]"
+}
+{
+  "@timestamp": "2025-02-05T10:01:15Z",
+  "level": "info",
+  "message": "Successfully retrieved balancemap[AccountNumber:1738743086099434186 Balance:1.5e+07]"
+}
+10:01:14 | 200 |     4.54308ms | 172.18.0.1 | GET | /api/v1/saldo/1738743086099434186 | -
+{
+  "@timestamp": "2025-02-05T10:01:21Z",
+  "level": "info",
+  "message": "Received deposit requestmap[AccountNumber:1738743086099434186 Amount:2e+07]"
+}
+{
+  "@timestamp": "2025-02-05T10:01:21Z",
+  "level": "info",
+  "message": "Validating deposit transactionmap[AccountNumber:1738743086099434186 Amount:2e+07]"
+}
+{
+  "@timestamp": "2025-02-05T10:01:21Z",
+  "level": "info",
+  "message": "Creating deposit transactionmap[AccountNumber:1738743086099434186 FinalBalance:3.5e+07 TransactionID:1c185f81-0f78-4aed-b19e-70650717e475]"
+}
+{
+  "@timestamp": "2025-02-05T10:01:21Z",
+  "level": "info",
+  "message": "Deposit transaction completedmap[AccountNumber:1738743086099434186 FinalBalance:3.5e+07]"
+}
+{
+  "@timestamp": "2025-02-05T10:01:21Z",
+  "level": "info",
+  "message": "Deposit transaction successfulmap[AccountNumber:1738743086099434186 FinalBalance:3.5e+07]"
+}
+10:01:21 | 200 |   36.104428ms | 172.18.0.1 | POST | /api/v1/tabung | -
+{
+  "@timestamp": "2025-02-05T10:01:22Z",
+  "level": "info",
+  "message": "Received deposit requestmap[AccountNumber:1738743086099434186 Amount:2e+07]"
+}
+{
+  "@timestamp": "2025-02-05T10:01:22Z",
+  "level": "info",
+  "message": "Validating deposit transactionmap[AccountNumber:1738743086099434186 Amount:2e+07]"
+}
+{
+  "@timestamp": "2025-02-05T10:01:22Z",
+  "level": "info",
+  "message": "Creating deposit transactionmap[AccountNumber:1738743086099434186 FinalBalance:5.5e+07 TransactionID:1cf1886d-e5c0-4b99-bceb-4ada4c58ff8d]"
+}
+{
+  "@timestamp": "2025-02-05T10:01:22Z",
+  "level": "info",
+  "message": "Deposit transaction completedmap[AccountNumber:1738743086099434186 FinalBalance:5.5e+07]"
+}
+{
+  "@timestamp": "2025-02-05T10:01:22Z",
+  "level": "info",
+  "message": "Deposit transaction successfulmap[AccountNumber:1738743086099434186 FinalBalance:5.5e+07]"
+}
+10:01:22 | 200 |    8.390294ms | 172.18.0.1 | POST | /api/v1/tabung | -
+{
+  "@timestamp": "2025-02-05T10:01:25Z",
+  "level": "info",
+  "message": "Checking account balance requestmap[AccountNumber:1738743086099434186]"
+}
+{
+  "@timestamp": "2025-02-05T10:01:25Z",
+  "level": "info",
+  "message": "Fetching balance for accountmap[AccountNumber:1738743086099434186]"
+}
+{
+  "@timestamp": "2025-02-05T10:01:25Z",
+  "level": "info",
+  "message": "Successfully fetched balancemap[AccountNumber:1738743086099434186 Balance:5.5e+07]"
+}
+{
+  "@timestamp": "2025-02-05T10:01:25Z",
+  "level": "info",
+  "message": "Successfully retrieved balancemap[AccountNumber:1738743086099434186 Balance:5.5e+07]"
+}
+10:01:25 | 200 |    3.549309ms | 172.18.0.1 | GET | /api/v1/saldo/1738743086099434186 | -
+{
+  "@timestamp": "2025-02-05T10:01:36Z",
+  "level": "info",
+  "message": "Received withdraw requestmap[AccountNumber:1738743086099434186 Amount:5e+06]"
+}
+{
+  "@timestamp": "2025-02-05T10:01:36Z",
+  "level": "info",
+  "message": "Validating Withdraw transactionmap[AccountNumber:1738743086099434186 Amount:5e+06]"
+}
+{
+  "@timestamp": "2025-02-05T10:01:36Z",
+  "level": "info",
+  "message": "Creating Withdraw transactionmap[AccountNumber:1738743086099434186 FinalBalance:5e+07 TransactionID:6474027b-7bc5-414a-a3c7-e62c1df8c5da]"
+}
+{
+  "@timestamp": "2025-02-05T10:01:36Z",
+  "level": "info",
+  "message": "Withdraw transaction completedmap[AccountNumber:1738743086099434186 FinalBalance:5e+07]"
+}
+{
+  "@timestamp": "2025-02-05T10:01:36Z",
+  "level": "info",
+  "message": "Withdraw transaction successfulmap[AccountNumber:1738743086099434186 FinalBalance:5e+07]"
+}
+10:01:36 | 200 |   11.611941ms | 172.18.0.1 | POST | /api/v1/tarik | -
+{
+  "@timestamp": "2025-02-05T10:01:37Z",
+  "level": "info",
+  "message": "Received withdraw requestmap[AccountNumber:1738743086099434186 Amount:5e+06]"
+}
+{
+  "@timestamp": "2025-02-05T10:01:37Z",
+  "level": "info",
+  "message": "Validating Withdraw transactionmap[AccountNumber:1738743086099434186 Amount:5e+06]"
+}
+{
+  "@timestamp": "2025-02-05T10:01:37Z",
+  "level": "info",
+  "message": "Creating Withdraw transactionmap[AccountNumber:1738743086099434186 FinalBalance:4.5e+07 TransactionID:f2d0d8a8-1849-432c-9eb1-00ca20aa2685]"
+}
+{
+  "@timestamp": "2025-02-05T10:01:37Z",
+  "level": "info",
+  "message": "Withdraw transaction completedmap[AccountNumber:1738743086099434186 FinalBalance:4.5e+07]"
+}
+{
+  "@timestamp": "2025-02-05T10:01:37Z",
+  "level": "info",
+  "message": "Withdraw transaction successfulmap[AccountNumber:1738743086099434186 FinalBalance:4.5e+07]"
+}
+10:01:37 | 200 |   25.231694ms | 172.18.0.1 | POST | /api/v1/tarik | -
+{
+  "@timestamp": "2025-02-05T10:01:38Z",
+  "level": "info",
+  "message": "Received withdraw requestmap[AccountNumber:1738743086099434186 Amount:5e+06]"
+}
+{
+  "@timestamp": "2025-02-05T10:01:38Z",
+  "level": "info",
+  "message": "Validating Withdraw transactionmap[AccountNumber:1738743086099434186 Amount:5e+06]"
+}
+{
+  "@timestamp": "2025-02-05T10:01:38Z",
+  "level": "info",
+  "message": "Creating Withdraw transactionmap[AccountNumber:1738743086099434186 FinalBalance:4e+07 TransactionID:5580a231-7c71-4ab6-8f39-a394df393461]"
+}
+{
+  "@timestamp": "2025-02-05T10:01:38Z",
+  "level": "info",
+  "message": "Withdraw transaction completedmap[AccountNumber:1738743086099434186 FinalBalance:4e+07]"
+}
+{
+  "@timestamp": "2025-02-05T10:01:38Z",
+  "level": "info",
+  "message": "Withdraw transaction successfulmap[AccountNumber:1738743086099434186 FinalBalance:4e+07]"
+}
+10:01:38 | 200 |    7.743828ms | 172.18.0.1 | POST | /api/v1/tarik | -
+{
+  "@timestamp": "2025-02-05T10:01:39Z",
+  "level": "info",
+  "message": "Received withdraw requestmap[AccountNumber:1738743086099434186 Amount:5e+06]"
+}
+{
+  "@timestamp": "2025-02-05T10:01:39Z",
+  "level": "info",
+  "message": "Validating Withdraw transactionmap[AccountNumber:1738743086099434186 Amount:5e+06]"
+}
+{
+  "@timestamp": "2025-02-05T10:01:39Z",
+  "level": "info",
+  "message": "Creating Withdraw transactionmap[AccountNumber:1738743086099434186 FinalBalance:3.5e+07 TransactionID:3ff87f77-d626-4ac4-af7c-80328be9f9e7]"
+}
+{
+  "@timestamp": "2025-02-05T10:01:39Z",
+  "level": "info",
+  "message": "Withdraw transaction completedmap[AccountNumber:1738743086099434186 FinalBalance:3.5e+07]"
+}
+{
+  "@timestamp": "2025-02-05T10:01:39Z",
+  "level": "info",
+  "message": "Withdraw transaction successfulmap[AccountNumber:1738743086099434186 FinalBalance:3.5e+07]"
+}
+10:01:39 | 200 |   20.867553ms | 172.18.0.1 | POST | /api/v1/tarik | -
+{
+  "@timestamp": "2025-02-05T10:01:39Z",
+  "level": "info",
+  "message": "Received withdraw requestmap[AccountNumber:1738743086099434186 Amount:5e+06]"
+}
+{
+  "@timestamp": "2025-02-05T10:01:39Z",
+  "level": "info",
+  "message": "Validating Withdraw transactionmap[AccountNumber:1738743086099434186 Amount:5e+06]"
+}
+{
+  "@timestamp": "2025-02-05T10:01:39Z",
+  "level": "info",
+  "message": "Creating Withdraw transactionmap[AccountNumber:1738743086099434186 FinalBalance:3e+07 TransactionID:1afb93da-3361-496a-bad9-668432bd9b72]"
+}
+{
+  "@timestamp": "2025-02-05T10:01:39Z",
+  "level": "info",
+  "message": "Withdraw transaction completedmap[AccountNumber:1738743086099434186 FinalBalance:3e+07]"
+}
+{
+  "@timestamp": "2025-02-05T10:01:39Z",
+  "level": "info",
+  "message": "Withdraw transaction successfulmap[AccountNumber:1738743086099434186 FinalBalance:3e+07]"
+}
+10:01:39 | 200 |   18.520723ms | 172.18.0.1 | POST | /api/v1/tarik | -
+{
+  "@timestamp": "2025-02-05T10:01:40Z",
+  "level": "info",
+  "message": "Received withdraw requestmap[AccountNumber:1738743086099434186 Amount:5e+06]"
+}
+{
+  "@timestamp": "2025-02-05T10:01:40Z",
+  "level": "info",
+  "message": "Validating Withdraw transactionmap[AccountNumber:1738743086099434186 Amount:5e+06]"
+}
+{
+  "@timestamp": "2025-02-05T10:01:40Z",
+  "level": "info",
+  "message": "Creating Withdraw transactionmap[AccountNumber:1738743086099434186 FinalBalance:2.5e+07 TransactionID:38d1b9f0-62e5-4f1c-8e8d-c539a15899eb]"
+}
+{
+  "@timestamp": "2025-02-05T10:01:40Z",
+  "level": "info",
+  "message": "Withdraw transaction completedmap[AccountNumber:1738743086099434186 FinalBalance:2.5e+07]"
+}
+{
+  "@timestamp": "2025-02-05T10:01:40Z",
+  "level": "info",
+  "message": "Withdraw transaction successfulmap[AccountNumber:1738743086099434186 FinalBalance:2.5e+07]"
+}
+10:01:40 | 200 |   17.400861ms | 172.18.0.1 | POST | /api/v1/tarik | -
+{
+  "@timestamp": "2025-02-05T10:01:41Z",
+  "level": "info",
+  "message": "Received withdraw requestmap[AccountNumber:1738743086099434186 Amount:5e+06]"
+}
+{
+  "@timestamp": "2025-02-05T10:01:41Z",
+  "level": "info",
+  "message": "Validating Withdraw transactionmap[AccountNumber:1738743086099434186 Amount:5e+06]"
+}
+{
+  "@timestamp": "2025-02-05T10:01:41Z",
+  "level": "info",
+  "message": "Creating Withdraw transactionmap[AccountNumber:1738743086099434186 FinalBalance:2e+07 TransactionID:0d6c5151-e65f-4370-b7a3-8ce996f051b6]"
+}
+{
+  "@timestamp": "2025-02-05T10:01:41Z",
+  "level": "info",
+  "message": "Withdraw transaction completedmap[AccountNumber:1738743086099434186 FinalBalance:2e+07]"
+}
+{
+  "@timestamp": "2025-02-05T10:01:41Z",
+  "level": "info",
+  "message": "Withdraw transaction successfulmap[AccountNumber:1738743086099434186 FinalBalance:2e+07]"
+}
+10:01:40 | 200 |   18.248608ms | 172.18.0.1 | POST | /api/v1/tarik | -
+{
+  "@timestamp": "2025-02-05T10:01:41Z",
+  "level": "info",
+  "message": "Received withdraw requestmap[AccountNumber:1738743086099434186 Amount:5e+06]"
+}
+{
+  "@timestamp": "2025-02-05T10:01:41Z",
+  "level": "info",
+  "message": "Validating Withdraw transactionmap[AccountNumber:1738743086099434186 Amount:5e+06]"
+}
+{
+  "@timestamp": "2025-02-05T10:01:41Z",
+  "level": "info",
+  "message": "Creating Withdraw transactionmap[AccountNumber:1738743086099434186 FinalBalance:1.5e+07 TransactionID:b072b152-6cf4-44ba-b0f4-07b91bc9bb75]"
+}
+{
+  "@timestamp": "2025-02-05T10:01:41Z",
+  "level": "info",
+  "message": "Withdraw transaction completedmap[AccountNumber:1738743086099434186 FinalBalance:1.5e+07]"
+}
+{
+  "@timestamp": "2025-02-05T10:01:41Z",
+  "level": "info",
+  "message": "Withdraw transaction successfulmap[AccountNumber:1738743086099434186 FinalBalance:1.5e+07]"
+}
+10:01:41 | 200 |    7.206898ms | 172.18.0.1 | POST | /api/v1/tarik | -
+{
+  "@timestamp": "2025-02-05T10:01:42Z",
+  "level": "info",
+  "message": "Received withdraw requestmap[AccountNumber:1738743086099434186 Amount:5e+06]"
+}
+{
+  "@timestamp": "2025-02-05T10:01:42Z",
+  "level": "info",
+  "message": "Validating Withdraw transactionmap[AccountNumber:1738743086099434186 Amount:5e+06]"
+}
+{
+  "@timestamp": "2025-02-05T10:01:42Z",
+  "level": "info",
+  "message": "Creating Withdraw transactionmap[AccountNumber:1738743086099434186 FinalBalance:1e+07 TransactionID:d5c30859-2805-4f42-9e38-865f89cfd93d]"
+}
+{
+  "@timestamp": "2025-02-05T10:01:42Z",
+  "level": "info",
+  "message": "Withdraw transaction completedmap[AccountNumber:1738743086099434186 FinalBalance:1e+07]"
+}
+{
+  "@timestamp": "2025-02-05T10:01:42Z",
+  "level": "info",
+  "message": "Withdraw transaction successfulmap[AccountNumber:1738743086099434186 FinalBalance:1e+07]"
+}
+10:01:42 | 200 |    6.909681ms | 172.18.0.1 | POST | /api/v1/tarik | -
+{
+  "@timestamp": "2025-02-05T10:01:43Z",
+  "level": "info",
+  "message": "Received withdraw requestmap[AccountNumber:1738743086099434186 Amount:5e+06]"
+}
+{
+  "@timestamp": "2025-02-05T10:01:43Z",
+  "level": "info",
+  "message": "Validating Withdraw transactionmap[AccountNumber:1738743086099434186 Amount:5e+06]"
+}
+{
+  "@timestamp": "2025-02-05T10:01:43Z",
+  "level": "info",
+  "message": "Creating Withdraw transactionmap[AccountNumber:1738743086099434186 FinalBalance:5e+06 TransactionID:ba9a1cfc-4094-4ec4-ae7d-654892789e88]"
+}
+{
+  "@timestamp": "2025-02-05T10:01:43Z",
+  "level": "info",
+  "message": "Withdraw transaction completedmap[AccountNumber:1738743086099434186 FinalBalance:5e+06]"
+}
+{
+  "@timestamp": "2025-02-05T10:01:43Z",
+  "level": "info",
+  "message": "Withdraw transaction successfulmap[AccountNumber:1738743086099434186 FinalBalance:5e+06]"
+}
+10:01:43 | 200 |   17.716091ms | 172.18.0.1 | POST | /api/v1/tarik | -
+{
+  "@timestamp": "2025-02-05T11:53:38Z",
+  "level": "info",
+  "message": "account_controller_create_requestmap[data:{ dino 5223012344559223 1223452333213 }]"
+}
+{
+  "@timestamp": "2025-02-05T11:53:38Z",
+  "level": "info",
+  "message": "account_service_impl_create_entitymap[data:%!v(PANIC=Error method: unimplemented)]"
+}
+{
+  "@timestamp": "2025-02-05T11:53:38Z",
+  "level": "info",
+  "message": "Account successfully createdmap[AccountNumber:1738756418501180354]"
+}
+11:53:38 | 200 |   22.748954ms | 172.18.0.1 | POST | /api/v1/daftar | -
+{
+  "@timestamp": "2025-02-05T11:53:48Z",
+  "level": "info",
+  "message": "balance_controller_FindByAccountNumber_Paramsmap[data:1738756418501180354]"
+}
+{
+  "@timestamp": "2025-02-05T11:53:48Z",
+  "level": "info",
+  "message": "balance_service_impl_FindByAccountNumber_resultmap[data:%!v(PANIC=Error method: unimplemented)]"
+}
+{
+  "@timestamp": "2025-02-05T11:53:48Z",
+  "level": "info",
+  "message": "balance_controller_resultmap[data:{0}]"
+}
+11:53:48 | 200 |    2.972279ms | 172.18.0.1 | GET | /api/v1/saldo/1738756418501180354 | -
+{
+  "@timestamp": "2025-02-05T11:53:58Z",
+  "level": "info",
+  "message": "transaction_deposit_controller_create_reqeustmap[data:{1738756418501180354 500}]"
+}
+{
+  "@timestamp": "2025-02-05T11:53:58Z",
+  "level": "info",
+  "message": "transaction_deposit_service_impl_create_entitymap[data:{62d7f5a1-3854-4861-bef4-34f8649f8df6 1738756418501180354 deposit 500 500 0001-01-01 00:00:00 +0000 UTC}]"
+}
+11:53:58 | 200 |   19.762197ms | 172.18.0.1 | POST | /api/v1/tabung | -
+{
+  "@timestamp": "2025-02-05T11:54:00Z",
+  "level": "info",
+  "message": "balance_controller_FindByAccountNumber_Paramsmap[data:1738756418501180354]"
+}
+{
+  "@timestamp": "2025-02-05T11:54:00Z",
+  "level": "info",
+  "message": "balance_service_impl_FindByAccountNumber_resultmap[data:%!v(PANIC=Error method: unimplemented)]"
+}
+{
+  "@timestamp": "2025-02-05T11:54:00Z",
+  "level": "info",
+  "message": "balance_controller_resultmap[data:{500}]"
+}
+11:54:00 | 200 |    4.995002ms | 172.18.0.1 | GET | /api/v1/saldo/1738756418501180354 | -
+{
+  "@timestamp": "2025-02-05T11:54:08Z",
+  "level": "info",
+  "message": "transaction_deposit_controller_create_reqeustmap[data:{1738756418501180354 1500}]"
+}
+{
+  "@timestamp": "2025-02-05T11:54:08Z",
+  "level": "info",
+  "message": "transaction_deposit_service_impl_create_entitymap[data:{ae1b9f65-42fd-40ab-aad1-1cc8a121d568 1738756418501180354 deposit 1500 2000 0001-01-01 00:00:00 +0000 UTC}]"
+}
+11:54:08 | 200 |   23.106302ms | 172.18.0.1 | POST | /api/v1/tabung | -
+{
+  "@timestamp": "2025-02-05T11:54:10Z",
+  "level": "info",
+  "message": "balance_controller_FindByAccountNumber_Paramsmap[data:1738756418501180354]"
+}
+{
+  "@timestamp": "2025-02-05T11:54:10Z",
+  "level": "info",
+  "message": "balance_service_impl_FindByAccountNumber_resultmap[data:%!v(PANIC=Error method: unimplemented)]"
+}
+{
+  "@timestamp": "2025-02-05T11:54:10Z",
+  "level": "info",
+  "message": "balance_controller_resultmap[data:{2000}]"
+}
+11:54:10 | 200 |    3.469515ms | 172.18.0.1 | GET | /api/v1/saldo/1738756418501180354 | -
+{
+  "@timestamp": "2025-02-05T11:54:20Z",
+  "level": "info",
+  "message": "transaction_withdraw_controller_create_requestmap[data:{1738756418501180354 10000}]"
+}
+{
+  "@timestamp": "2025-02-05T11:54:20Z",
+  "level": "warning",
+  "message": "transaction_withdraw_controller_create_err_transactionModel.Amount\u003eaccount.Balancemap[data:2000]"
+}
+11:54:20 | 400 |    2.145531ms | 172.18.0.1 | POST | /api/v1/tarik | -
+{
+  "@timestamp": "2025-02-05T11:54:28Z",
+  "level": "info",
+  "message": "transaction_withdraw_controller_create_requestmap[data:{1738756418501180354 1000}]"
+}
+{
+  "@timestamp": "2025-02-05T11:54:28Z",
+  "level": "info",
+  "message": "transaction_withdraw_service_impl_create_entitymap[data:{5d6ddd73-dddd-417d-ac5c-570d4b6d9d44 1738756418501180354 withdraw 1000 1000 0001-01-01 00:00:00 +0000 UTC}]"
+}
+11:54:28 | 200 |   21.746198ms | 172.18.0.1 | POST | /api/v1/tarik | -
+{
+  "@timestamp": "2025-02-05T11:54:32Z",
+  "level": "info",
+  "message": "balance_controller_FindByAccountNumber_Paramsmap[data:1738756418501180354]"
+}
+{
+  "@timestamp": "2025-02-05T11:54:32Z",
+  "level": "info",
+  "message": "balance_service_impl_FindByAccountNumber_resultmap[data:%!v(PANIC=Error method: unimplemented)]"
+}
+{
+  "@timestamp": "2025-02-05T11:54:32Z",
+  "level": "info",
+  "message": "balance_controller_resultmap[data:{1000}]"
+}
+11:54:32 | 200 |    3.735823ms | 172.18.0.1 | GET | /api/v1/saldo/1738756418501180354 | -
+{
+  "@timestamp": "2025-02-05T12:03:17Z",
+  "level": "info",
+  "message": "account_controller_create_requestmap[data:{ farhan 5223012344559213 122345223213 }]"
+}
+12:03:17 | 400 |    2.718958ms | 172.18.0.1 | POST | /api/v1/daftar | -
+{
+  "@timestamp": "2025-02-05T12:04:51Z",
+  "level": "info",
+  "message": "account_controller_create_requestmap[data:{ farhan 5223012344559213 122345223213 }]"
+}
+{
+  "@timestamp": "2025-02-05T12:04:51Z",
+  "level": "info",
+  "message": "account_service_impl_create_entitymap[AccountID:19c546ef-759c-4cb2-bc0e-b5f502a43d96 AccountNumber:1738757091639703508]"
+}
+{
+  "@timestamp": "2025-02-05T12:04:51Z",
+  "level": "info",
+  "message": "Account successfully createdmap[AccountNumber:1738757091639703508]"
+}
+12:04:51 | 200 |   38.598479ms | 172.18.0.1 | POST | /api/v1/daftar | -
+{
+  "@timestamp": "2025-02-05T12:05:52Z",
+  "level": "info",
+  "message": "account_controller_create_requestmap[data:{ farhan 5223012344559213 122345223213 }]"
+}
+{
+  "@timestamp": "2025-02-05T12:05:52Z",
+  "level": "info",
+  "message": "account_service_impl_create_entitymap[AccountID:f0f42f9f-a8b7-4f44-b4eb-23e89cd30351 AccountNumber:1738757152260798832]"
+}
+{
+  "@timestamp": "2025-02-05T12:05:52Z",
+  "level": "info",
+  "message": "Account successfully createdmap[AccountNumber:1738757152260798832]"
+}
+12:05:52 | 200 |   13.989179ms | 172.18.0.1 | POST | /api/v1/daftar | -
+{
+  "@timestamp": "2025-02-05T12:06:03Z",
+  "level": "info",
+  "message": "account_controller_create_requestmap[data:{ farhan 5223012344559213 122345223213 }]"
+}
+12:06:03 | 400 |    1.247067ms | 172.18.0.1 | POST | /api/v1/daftar | -
+{
+  "@timestamp": "2025-02-05T12:06:08Z",
+  "level": "info",
+  "message": "account_controller_create_requestmap[data:{ farhan 5223012344559513 122345223213 }]"
+}
+12:06:08 | 400 |    3.251375ms | 172.18.0.1 | POST | /api/v1/daftar | -
+{
+  "@timestamp": "2025-02-05T12:06:32Z",
+  "level": "info",
+  "message": "balance_controller_FindByAccountNumber_Paramsmap[data:1738757152260798832]"
+}
+{
+  "@timestamp": "2025-02-05T12:06:32Z",
+  "level": "info",
+  "message": "balance_service_impl_FindByAccountNumber_resultmap[data:1738757152260798832]"
+}
+{
+  "@timestamp": "2025-02-05T12:06:32Z",
+  "level": "info",
+  "message": "balance_controller_resultmap[data:{0}]"
+}
+12:06:32 | 200 |   19.605651ms | 172.18.0.1 | GET | /api/v1/saldo/1738757152260798832 | -
+{
+  "@timestamp": "2025-02-05T12:06:44Z",
+  "level": "info",
+  "message": "transaction_deposit_controller_create_reqeustmap[data:{1738757152260798832 1000}]"
+}
+{
+  "@timestamp": "2025-02-05T12:06:44Z",
+  "level": "info",
+  "message": "transaction_deposit_service_impl_create_entitymap[data:{e399019d-9c93-4397-8001-08b91aeae0a4 1738757152260798832 deposit 1000 1000 0001-01-01 00:00:00 +0000 UTC}]"
+}
+12:06:44 | 200 |   10.203991ms | 172.18.0.1 | POST | /api/v1/tabung | -
+{
+  "@timestamp": "2025-02-05T12:06:50Z",
+  "level": "info",
+  "message": "balance_controller_FindByAccountNumber_Paramsmap[data:1738757152260798832]"
+}
+{
+  "@timestamp": "2025-02-05T12:06:50Z",
+  "level": "info",
+  "message": "balance_service_impl_FindByAccountNumber_resultmap[data:1738757152260798832]"
+}
+{
+  "@timestamp": "2025-02-05T12:06:50Z",
+  "level": "info",
+  "message": "balance_controller_resultmap[data:{1000}]"
+}
+12:06:50 | 200 |    3.860516ms | 172.18.0.1 | GET | /api/v1/saldo/1738757152260798832 | -
+{
+  "@timestamp": "2025-02-05T12:07:01Z",
+  "level": "info",
+  "message": "transaction_deposit_controller_create_reqeustmap[data:{1738757152260798832 5000}]"
+}
+{
+  "@timestamp": "2025-02-05T12:07:01Z",
+  "level": "info",
+  "message": "transaction_deposit_service_impl_create_entitymap[data:{281b273b-183c-4ed3-a354-25097b0570bf 1738757152260798832 deposit 5000 6000 0001-01-01 00:00:00 +0000 UTC}]"
+}
+12:07:01 | 200 |   17.715999ms | 172.18.0.1 | POST | /api/v1/tabung | -
+{
+  "@timestamp": "2025-02-05T12:07:05Z",
+  "level": "info",
+  "message": "balance_controller_FindByAccountNumber_Paramsmap[data:1738757152260798832]"
+}
+{
+  "@timestamp": "2025-02-05T12:07:05Z",
+  "level": "info",
+  "message": "balance_service_impl_FindByAccountNumber_resultmap[data:1738757152260798832]"
+}
+{
+  "@timestamp": "2025-02-05T12:07:05Z",
+  "level": "info",
+  "message": "balance_controller_resultmap[data:{6000}]"
+}
+12:07:05 | 200 |   29.654835ms | 172.18.0.1 | GET | /api/v1/saldo/1738757152260798832 | -
+{
+  "@timestamp": "2025-02-05T12:07:22Z",
+  "level": "info",
+  "message": "transaction_withdraw_controller_create_requestmap[data:{1738757152260798832 1000}]"
+}
+{
+  "@timestamp": "2025-02-05T12:07:22Z",
+  "level": "info",
+  "message": "transaction_withdraw_service_impl_create_entitymap[AccountNumber:1738757152260798832 FinalBalance:5000]"
+}
+{
+  "@timestamp": "2025-02-05T12:07:22Z",
+  "level": "info",
+  "message": "Withdraw transaction completedmap[AccountNumber:1738757152260798832 FinalBalance:5000]"
+}
+12:07:21 | 200 |   19.460231ms | 172.18.0.1 | POST | /api/v1/tarik | -
+{
+  "@timestamp": "2025-02-05T12:07:29Z",
+  "level": "info",
+  "message": "balance_controller_FindByAccountNumber_Paramsmap[data:1738757152260798832]"
+}
+{
+  "@timestamp": "2025-02-05T12:07:29Z",
+  "level": "info",
+  "message": "balance_service_impl_FindByAccountNumber_resultmap[data:1738757152260798832]"
+}
+{
+  "@timestamp": "2025-02-05T12:07:29Z",
+  "level": "info",
+  "message": "balance_controller_resultmap[data:{5000}]"
+}
+12:07:29 | 200 |    3.553092ms | 172.18.0.1 | GET | /api/v1/saldo/1738757152260798832 | -
+{
+  "@timestamp": "2025-02-05T12:07:39Z",
+  "level": "info",
+  "message": "transaction_withdraw_controller_create_requestmap[data:{1738757152260798832 6000}]"
+}
+{
+  "@timestamp": "2025-02-05T12:07:39Z",
+  "level": "warning",
+  "message": "transaction_withdraw_controller_create_err_transactionModel.Amount\u003eaccount.Balancemap[data:5000]"
+}
+12:07:39 | 400 |   28.031004ms | 172.18.0.1 | POST | /api/v1/tarik | -
+{
+  "@timestamp": "2025-02-05T12:07:47Z",
+  "level": "info",
+  "message": "transaction_withdraw_controller_create_requestmap[data:{1738757152260798835 6000}]"
+}
+{
+  "@timestamp": "2025-02-05T12:07:47Z",
+  "level": "warning",
+  "message": "transaction_withdraw_controller_FindByAccountNumber_errmap[data:{1738757152260798835 6000}]"
+}
+12:07:47 | 400 |    3.218122ms | 172.18.0.1 | POST | /api/v1/tarik | -
+{
+  "@timestamp": "2025-02-05T12:07:54Z",
+  "level": "info",
+  "message": "transaction_deposit_controller_create_reqeustmap[data:{1738757152260798802 5000}]"
+}
+{
+  "@timestamp": "2025-02-05T12:07:54Z",
+  "level": "warning",
+  "message": "transaction_deposit_controller_create_FindByAccountNumbermap[data:{1738757152260798802 5000}]"
+}
+12:07:54 | 400 |    3.004108ms | 172.18.0.1 | POST | /api/v1/tabung | -

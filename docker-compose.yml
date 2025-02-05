@@ -1,0 +1,48 @@
+version: '3'
+services:
+  app:
+    container_name: service_app
+    build: .
+    ports:
+      - 8080:8080
+    restart: on-failure
+    volumes:
+      - .:/app
+      - /app/vendor
+    depends_on:
+      service-postgres:
+        condition: service_healthy  
+    networks:
+      - my-network
+    environment:
+      - DATASOURCE_USERNAME=postgres
+      - DATASOURCE_PASSWORD=postgres
+      - DATASOURCE_HOST=service-postgres
+      - DATASOURCE_PORT=5432
+      - DATASOURCE_DB_NAME=service_account_app
+
+  service-postgres:
+    image: postgres:13
+    container_name: full_db_postgres
+    ports:
+      - 5432:5432
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres
+      POSTGRES_DB: service_account_app
+    volumes:
+      - database_postgres:/var/lib/postgresql/data
+    networks:
+      - my-network
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U postgres"]
+      interval: 5s
+      timeout: 5s
+      retries: 5
+
+volumes:
+  database_postgres:
+
+networks:
+  my-network:
+    driver: bridge

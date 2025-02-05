@@ -1,0 +1,66 @@
+15:59:42 | 400 |            0s | 127.0.0.1 | POST | /api/v1/auth/login | -
+15:59:43 | 400 |            0s | 127.0.0.1 | POST | /api/v1/auth/login | -
+15:59:44 | 400 |            0s | 127.0.0.1 | POST | /api/v1/auth/login | -
+15:59:45 | 400 |            0s | 127.0.0.1 | POST | /api/v1/auth/login | -
+15:59:46 | 400 |            0s | 127.0.0.1 | POST | /api/v1/auth/login | -
+15:59:49 | 400 |            0s | 127.0.0.1 | POST | /api/v1/auth/login1 | -
+15:59:50 | 400 |            0s | 127.0.0.1 | POST | /api/v1/auth/login1 | -
+16:00:00 | 400 |            0s | 127.0.0.1 | POST | /api/v1/auth/login1 | -
+16:00:01 | 400 |            0s | 127.0.0.1 | POST | /api/v1/auth/login1 | -
+16:00:01 | 400 |            0s | 127.0.0.1 | POST | /api/v1/auth/login1 | -
+16:00:02 | 400 |            0s | 127.0.0.1 | POST | /api/v1/auth/login1 | -
+16:00:04 | 400 |            0s | 127.0.0.1 | POST | /api/v1/auth/login | -
+16:00:04 | 400 |            0s | 127.0.0.1 | POST | /api/v1/auth/login | -
+16:00:05 | 400 |            0s | 127.0.0.1 | POST | /api/v1/auth/login | -
+16:00:13 | 400 |            0s | 127.0.0.1 | POST | /api/v1/auth/login | -
+16:00:13 | 400 |            0s | 127.0.0.1 | POST | /api/v1/auth/login | -
+09:08:40 | 400 |      91.403µs | 172.18.0.1 | POST | /api/v1/auth/login | -
+09:08:42 | 400 |          14µs | 172.18.0.1 | POST | /api/v1/auth/login1 | -
+09:08:43 | 400 |      90.603µs | 172.18.0.1 | POST | /api/v1/auth/login1 | -
+09:08:44 | 400 |      84.403µs | 172.18.0.1 | POST | /api/v1/auth/login1 | -
+09:08:49 | 400 |        12.3µs | 172.18.0.1 | POST | /api/v1/auth/login1 | -
+09:08:50 | 400 |      70.103µs | 172.18.0.1 | POST | /api/v1/auth/login1 | -
+09:10:15 | 400 |      11.201µs | 172.18.0.1 | POST | /api/service/auth/login1 | -
+{"@timestamp":"2025-02-04T12:24:03Z","level":"info","message":"account_create_data{35432336-2bf7-4fac-bb27-e49c7d0bd54d admin usemahu001 usemahu001 usemahu001 0 2025-02-04 12:24:03.562486071 +0000 UTC m=+17.989192267 0001-01-01 00:00:00 +0000 UTC}"}
+12:24:03 | 200 |   10.224936ms | 172.18.0.1 | POST | /api/v1/register | -
+{"@timestamp":"2025-02-04T12:34:36Z","level":"info","message":"account_create_data{b54969d0-bd24-4e5a-8215-4c866d05d4d7 admin usemahu001 usemahu001 usemahu001 0 2025-02-04 12:34:36.105368636 +0000 UTC m=+249.203384005 0001-01-01 00:00:00 +0000 UTC}"}
+12:34:35 | 200 |   15.845519ms | 172.18.0.1 | POST | /api/v1/register | -
+{"@timestamp":"2025-02-04T12:40:11Z","level":"info","message":"account_create_data{3e51051a-8f46-4c65-ba42-10a1fe2fe8ab admin usemahu001 usemahu001 usemahu001 0 2025-02-04 12:40:11.868521229 +0000 UTC m=+44.815487300 0001-01-01 00:00:00 +0000 UTC}"}
+12:40:11 | 200 |   25.230236ms | 172.18.0.1 | POST | /api/v1/register | -
+{"@timestamp":"2025-02-04T12:41:41Z","level":"info","message":"account_create_data{e83d86b0-611d-4f0e-96a1-f8a2071ab397 admin usemahu001 usemahu001 usemahu001 0 2025-02-04 12:41:41.162320711 +0000 UTC m=+134.111382310 0001-01-01 00:00:00 +0000 UTC}"}
+12:41:41 | 200 |   22.199755ms | 172.18.0.1 | POST | /api/v1/register | -
+{"@timestamp":"2025-02-04T12:41:42Z","level":"info","message":"account_create_data{27bd5e6f-f63a-4d9a-9051-d2f875f6516c admin usemahu001 usemahu001 usemahu001 0 2025-02-04 12:41:42.026520286 +0000 UTC m=+134.975581985 0001-01-01 00:00:00 +0000 UTC}"}
+12:41:41 | 200 |    17.64064ms | 172.18.0.1 | POST | /api/v1/register | -
+{"@timestamp":"2025-02-04T12:41:42Z","level":"info","message":"account_create_data{fce88dab-af8a-4e3a-8b5a-9bdbabf4b886 admin usemahu001 usemahu001 usemahu001 0 2025-02-04 12:41:42.625425739 +0000 UTC m=+135.574487338 0001-01-01 00:00:00 +0000 UTC}"}
+12:41:42 | 200 |    3.675192ms | 172.18.0.1 | POST | /api/v1/register | -
+{"@timestamp":"2025-02-04T12:41:43Z","level":"info","message":"account_create_data{b104b3d0-c29a-47cc-a247-f7bb8df96d6d admin usemahu001 usemahu001 usemahu001 0 2025-02-04 12:41:43.073902535 +0000 UTC m=+136.022964134 0001-01-01 00:00:00 +0000 UTC}"}
+12:41:43 | 200 |    7.034275ms | 172.18.0.1 | POST | /api/v1/register | -
+{"@timestamp":"2025-02-04T12:41:43Z","level":"info","message":"account_create_data{639881d3-d5ef-4913-bd8e-1f86ad4bb160 admin usemahu001 usemahu001 usemahu001 0 2025-02-04 12:41:43.386351036 +0000 UTC m=+136.335412735 0001-01-01 00:00:00 +0000 UTC}"}
+12:41:43 | 200 |   13.047126ms | 172.18.0.1 | POST | /api/v1/register | -
+{"@timestamp":"2025-02-04T12:41:43Z","level":"info","message":"account_create_data{e18aa1e9-e6b6-4f34-aea0-c3918049cbd1 admin usemahu001 usemahu001 usemahu001 0 2025-02-04 12:41:43.623567158 +0000 UTC m=+136.572628757 0001-01-01 00:00:00 +0000 UTC}"}
+12:41:43 | 200 |    6.427861ms | 172.18.0.1 | POST | /api/v1/register | -
+{"@timestamp":"2025-02-04T12:41:43Z","level":"info","message":"account_create_data{8edbfcc4-4d11-4168-a1d9-ec48403d4669 admin usemahu001 usemahu001 usemahu001 0 2025-02-04 12:41:43.959179037 +0000 UTC m=+136.908240736 0001-01-01 00:00:00 +0000 UTC}"}
+12:41:43 | 200 |   14.379159ms | 172.18.0.1 | POST | /api/v1/register | -
+{"@timestamp":"2025-02-04T12:41:44Z","level":"info","message":"account_create_data{738389a8-f366-4b13-8fab-bddbb600f56a admin usemahu001 usemahu001 usemahu001 0 2025-02-04 12:41:44.27654246 +0000 UTC m=+137.225604059 0001-01-01 00:00:00 +0000 UTC}"}
+12:41:44 | 200 |    4.136204ms | 172.18.0.1 | POST | /api/v1/register | -
+{"@timestamp":"2025-02-04T12:41:44Z","level":"info","message":"account_create_data{8a49f13e-047e-46e1-ba01-a702e954b898 admin usemahu001 usemahu001 usemahu001 0 2025-02-04 12:41:44.503123517 +0000 UTC m=+137.452185116 0001-01-01 00:00:00 +0000 UTC}"}
+12:41:44 | 200 |   13.104527ms | 172.18.0.1 | POST | /api/v1/register | -
+{"@timestamp":"2025-02-04T12:41:45Z","level":"info","message":"account_create_data{1c6210f7-786b-459b-89e1-f9b5c059bd03 admin usemahu001 usemahu001 usemahu001 0 2025-02-04 12:41:45.613341535 +0000 UTC m=+138.562403134 0001-01-01 00:00:00 +0000 UTC}"}
+12:41:45 | 200 |    4.159504ms | 172.18.0.1 | POST | /api/v1/register | -
+{"@timestamp":"2025-02-04T12:43:23Z","level":"info","message":"account_create_data{a5ccf2c8-93cc-49b9-9016-ff60e343c1cb admin usemahu001 usemahu001 usemahu001 0 2025-02-04 12:43:23.020925902 +0000 UTC m=+235.972836972 0001-01-01 00:00:00 +0000 UTC}"}
+12:43:22 | 200 |   27.555483ms | 172.18.0.1 | POST | /api/v1/register | -
+{"@timestamp":"2025-02-04T12:55:23Z","level":"info","message":"account_create_databcb{a0bb6fd3-3722-4a7c-87ad-e37a3daace8a 1738673723630433815 usemahu001 usemahu001 usemahu001 0 2025-02-04 12:55:23.630438615 +0000 UTC m=+20.091780395 0001-01-01 00:00:00 +0000 UTC}"}
+12:55:23 | 200 |    12.36675ms | 172.18.0.1 | POST | /api/v1/register | -
+{"@timestamp":"2025-02-04T12:55:34Z","level":"info","message":"account_create_databcb{d1d8385a-7610-491d-8d8f-2e2b68833520 1738673734334684429 usemahu001 usemahu001 usemahu001 0 2025-02-04 12:55:34.334687829 +0000 UTC m=+30.798552746 0001-01-01 00:00:00 +0000 UTC}"}
+12:55:33 | 200 |   17.962542ms | 172.18.0.1 | POST | /api/v1/register | -
+15:09:05 | 400 |   19.525355ms | 172.18.0.1 | POST | /api/v1/register | -
+{"@timestamp":"2025-02-04T15:10:20Z","level":"info","message":"account_create_databcb{af65d343-131e-48ec-847a-3af8faa8952c 1738681820454526499 Farhan indonesia 081342036189 0 2025-02-04 15:10:20.454530399 +0000 UTC m=+105.245287519 0001-01-01 00:00:00 +0000 UTC}"}
+15:10:20 | 200 |   14.234136ms | 172.18.0.1 | POST | /api/v1/register | -
+15:10:34 | 400 |     906.413µs | 172.18.0.1 | POST | /api/v1/register | -
+{"@timestamp":"2025-02-04T15:10:55Z","level":"info","message":"account_create_databcb{44e94771-3e85-40d6-bccc-83eb96b48acc 1738681855268568933 Farhan 12233445588903123 081342036189 0 2025-02-04 15:10:55.268571834 +0000 UTC m=+140.060794873 0001-01-01 00:00:00 +0000 UTC}"}
+15:10:54 | 200 |   13.311543ms | 172.18.0.1 | POST | /api/v1/register | -
+15:10:58 | 400 |     822.623µs | 172.18.0.1 | POST | /api/v1/register | -
+15:11:02 | 400 |    1.432139ms | 172.18.0.1 | POST | /api/v1/register | -
+{"@timestamp":"2025-02-04T15:11:11Z","level":"info","message":"account_create_databcb{89b10c5b-5903-41db-ad49-d90adb2f6c47 1738681871885727157 Farhan 12233445588903122 081342036182 0 2025-02-04 15:11:11.885728957 +0000 UTC m=+156.679043666 0001-01-01 00:00:00 +0000 UTC}"}
+15:11:11 | 200 |   11.777617ms | 172.18.0.1 | POST | /api/v1/register | -
+15:11:18 | 400 |      708.37µs | 172.18.0.1 | POST | /api/v1/register | -
